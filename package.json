@@ -1,0 +1,11 @@
+{
+  "name": "multisig-48h-demo",
+  "private": true,
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.17"
+  }
+}
